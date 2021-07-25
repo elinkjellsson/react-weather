@@ -14,7 +14,7 @@ export default function CurrentWeather() {
       </div>
       <div className="row">
         <div className="col-6-floatLeft">
-          <CurrentWeatherTemp currentTemp={23} />
+          <CurrentWeatherTemp currentTemp={24} />
         </div>
         <div className="col-6-floatRight">
           <WeatherDetails />

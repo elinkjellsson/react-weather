@@ -9,7 +9,7 @@ export default function WeatherForecast() {
           <div className="forecast-day">Mon</div>
           <img
             id="forecastIcon"
-            src="http://openweathermap.org/img/wn/10d@2x.png"
+            src="https://openweathermap.org/img/wn/10d@2x.png"
             alt=""
           />
           <div className="forecastTemp">

@@ -5,7 +5,7 @@ export default function CurrentWeatherTemp(props) {
   return (
     <div className="col-6-floatLeft">
       <img
-        src={"http://openweathermap.org/img/wn/10d@2x.png"}
+        src={"https://openweathermap.org/img/wn/10d@2x.png"}
         alt="Clear"
         id="icon"
       />
