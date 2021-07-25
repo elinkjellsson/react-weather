@@ -3,6 +3,7 @@ import "./Footer.css";
 
 export default function Footer() {
   return (
+    <div className="footer">
     <footer>
       <a
         href="https://github.com/elinkjellsson/react-weather"
@@ -13,5 +14,6 @@ export default function Footer() {
       </a>
       by Elin Kjellsson
     </footer>
+    </div>
   );
 }
