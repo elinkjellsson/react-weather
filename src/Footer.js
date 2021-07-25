@@ -8,8 +8,8 @@ export default function Footer() {
       <a
         href="https://github.com/elinkjellsson/react-weather"
         target="_blank"
-        rel="noopener noreferrer"
-      >
+       target="_blank" rel="noreferrer">
+      
         Open-source code{" "}
       </a>
       by Elin Kjellsson
