@@ -1,8 +1,8 @@
 import React from "react";
 import "./Wrapper.css";
-
-import Form from "./Form";
 import Footer from "./Footer";
+import Form from "./Form";
+
 import Current from "./Current";
 import WeatherForecast from "./WeatherForecast";
 
@@ -14,7 +14,7 @@ export default function Wrapper() {
         <Current />
         <WeatherForecast />
         <hr />
-        <Footer />
+       <Footer/>
       </div>
     </div>
   );

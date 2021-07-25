@@ -6,3 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+footer {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-family: monospace;
+  opacity: 80%;
+}
