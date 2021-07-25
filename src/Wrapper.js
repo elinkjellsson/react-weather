@@ -3,7 +3,6 @@ import "./Wrapper.css";
 import Form from "./Form";
 import Current from "./Current";
 import WeatherForecast from "./WeatherForecast";
-import Footer from "./Footer";
 
 export default function Wrapper() {
   return (
@@ -13,7 +12,16 @@ export default function Wrapper() {
         <Current />
         <WeatherForecast />
         <hr />
-       <Footer/>
+       <div className="footer">
+    <footer>
+      <a
+        href="https://github.com/elinkjellsson/react-weather"
+       target="_blank" rel="noreferrer">
+        Open-source code{" "}
+      </a>
+      by Elin Kjellsson
+    </footer>
+    </div>
       </div>
     </div>
   );

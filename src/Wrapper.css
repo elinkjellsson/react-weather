@@ -17,3 +17,10 @@
     rgb(255, 177, 177) 90%
   );
 }
+footer {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-family: monospace;
+  opacity: 80%;
+}
