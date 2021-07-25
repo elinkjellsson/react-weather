@@ -1,0 +1,13 @@
+.col-6-floatRight {
+  display: block;
+  float: right;
+  text-align: right;
+  padding-top: 20px;
+  font-size: 20px;
+  line-height: 1.5;
+  margin-left: 56px;
+}
+
+#weatherDetails {
+  font-weight: 500;
+}

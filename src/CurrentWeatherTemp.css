@@ -1,0 +1,19 @@
+.col-6-floatLeft {
+  display: block;
+  float: left;
+  margin-left: 30px;
+  text-align: left;
+}
+
+.units {
+  font-size: 30px;
+}
+#celcius {
+  color: #000;
+}
+
+#temperature {
+  font-size: 30px;
+  padding-top: 10px;
+  text-align: left;
+}
